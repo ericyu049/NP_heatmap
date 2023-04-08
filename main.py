@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from matplotlib.colors import LinearSegmentedColormap
 
-rootdir = './data3'
+rootdir = './data'
 dataframes = []
 
 # Go through each sample folder within data directory and locate /peaks.bed.mouse.annotation.txt
