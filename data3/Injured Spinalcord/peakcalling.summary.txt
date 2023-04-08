@@ -1,0 +1,11 @@
+Start: Mon Mar 27 16:57:36 EDT 2023
+Finish: Mon Mar 27 16:57:46 EDT 2023
+Samples:
+NPCS14
+miRBase species abbreviation: mmu
+Genome species abbreviation: mm10
+Peaks called by family? no
+Minimum reads: 2
+Minimum libraries: 1
+Cycles complete: 3
+Total peaks: 110

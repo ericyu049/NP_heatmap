@@ -1,0 +1,12 @@
+chr11	69667861	69667892	miRNA-mmu-miR-6715-3p	3	-	chr11	69667834	69667976	Gm24029	snoRNA	-
+chr11	109011841	109011864	miRNA-mmu-miR-2137	82	-	--	--	--	--	intergenic	--
+chr11	109012056	109012100	miRNA-mmu-miR-6239	2	-	--	--	--	--	intergenic	--
+chr15	86194778	86194802	miRNA-mmu-miR-6239	2	+	--	--	--	--	intergenic	--
+chr16	20684279	20684311	miRNA-mmu-miR-770-5p	2	+	chr16	20684239	20684313	Snord66	snoRNA	+
+chr16	57391648	57391674	miRNA-mmu-miR-2137	2	-	chr16	57323543	57606666	Cmss1	intron	-
+chr17	39843014	39843048	miRNA-mmu-miR-5099	18	+	chr17	39843013	39846341	Gm26917	lincRNA	+
+chr17	39847481	39847531	miRNA-mmu-miR-6240	2	+	chr17	39846958	39848788	Gm42418	lincRNA	+
+chr17	78273835	78273857	miRNA-mmu-miR-3470b	2	+	chr17	78237915	78279973	Crim1	intron	+
+chr2	90395156	90395181	miRNA-mmu-miR-6240	2	-	--	--	--	--	intergenic	--
+chr3	5860784	5860824	tRF-mmu-3003b	2	+	--	--	--	--	intergenic	--
+chrX	87238361	87238388	miRNA-mmu-miR-6236	4	+	--	--	--	--	intergenic	--
