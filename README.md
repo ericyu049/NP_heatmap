@@ -1,6 +1,6 @@
 # Neuropathic Pain Heatmap Generator
 
-This is a python script to generate clustermap (complex heatmap) for annotated samples using SCRAP pipeline. For more information about SCRAP, visit SCRAP at https://github.com/Meffert-Lab/SCRAP.
+This is a python script to generate clustermap (complex heatmap) for annotated small non-coding RNA (sncRNA) and target mRNA interactions generated through SCRAP pipeline. For more information about SCRAP, visit SCRAP at https://github.com/Meffert-Lab/SCRAP.
 
 ## How to run
 
