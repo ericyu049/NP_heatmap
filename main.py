@@ -61,6 +61,6 @@ clustermap.fig.subplots_adjust(right=0.7)
 clustermap.ax_cbar.set_position((0.8, .2, .03, .4))
 clustermap.ax_heatmap.set_yticklabels(clustermap.ax_heatmap.get_yticklabels(), fontsize=2)
 # save file as pdf.
-plt.savefig('heatmap.pdf', dpi=5000)
+plt.savefig('heatmap.pdf', dpi=1000)
 
 # plt.show()
